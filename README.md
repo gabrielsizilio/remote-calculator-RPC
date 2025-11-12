@@ -57,4 +57,4 @@ Basta digitar no terminal client a operação e 2 valores (x e y). Basta digitar
 
 | <img src="https://github.com/gabrielsizilio.png" width="60px;"/> | <img src="https://github.com/beruasCS.png" width="60px;"/> 
 |:---:|:---:|
-| [@gabrielsizilio](https://github.com/gabrielsizilio) | [@yodemisj](https://github.com/beruasCS)
+| [@gabrielsizilio](https://github.com/gabrielsizilio) | [@BeruasCS](https://github.com/beruasCS)
